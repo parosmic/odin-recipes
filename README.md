@@ -1,1 +1,2 @@
 # odin-recipes
+This project consists of a few recipes, showcasing my basic HTML knowledge only. No styling would be used and the webpage will mostly be created using common HTML elements like headings, paragraphs, images, anchors and lists.
