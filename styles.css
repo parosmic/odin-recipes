@@ -1,0 +1,35 @@
+div {
+    color: rgb(250, 242, 175);
+    text-align: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(./images/flat-persian-carpet-pattern-design_23-2150387343.avif);
+}
+
+ul {
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    text-align: center;
+    list-style-type: none;
+
+}
+
+.sekanjabin {
+    background-color: rgb(196, 255, 119);
+}
+
+.shirazi-salad {
+    background-color: rgb(238, 192, 213);
+}
+
+.ghormeh-sabzi {
+    background-color: rgb(134, 63, 63);
+}
+
+.bastani {
+    background-color: rgb(253, 225, 131);
+}
+
+a {
+    text-decoration: none
+}

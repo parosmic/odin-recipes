@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 10px ;
+}
+
+.back-buttons {
+    background-color: bisque;
+    text-align: center;
+}
