@@ -30,4 +30,4 @@ To view or work on this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/simple-recipes-webpage.git
+   git clone git@github.com:parosmic/odin-recipes.git
